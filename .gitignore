@@ -1,0 +1,8 @@
+#ignore files
+.settings
+/target
+.classpath
+.project
+compile.bat
+package.sh
+package.bat
